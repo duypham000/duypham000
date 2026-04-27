@@ -7,8 +7,6 @@
 ---
 
 ### 👨‍💻 About Me
-- 💼 Currently working as a **Fullstack Developer** at [Simplize](https://simplize.vn/).
-- 🎓 Graduated with **Excellence** in IT from UTT (Đại học Công Nghệ Giao Thông Vận Tải).
 - 🔭 I have deep experience in designing and implementing **Microservices** with **Java Spring Boot**, as well as building complex **Frontend** applications and **Mini-Apps** with **React.js, Next.js, and Flutter**.
 - 💡 I love exploring advanced architectural patterns (DDD, CQRS, Event Sourcing, Hexagonal Architecture) and building complex charting systems (SVG, D3.js, Canvas).
 - 📫 How to reach me: 
