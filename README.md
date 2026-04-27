@@ -46,33 +46,40 @@
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Project: PRIZ Ecosystem
+*A comprehensive, scalable platform integrating AI agents, microservices backend, and a high-performance desktop client.*
 
-#### **PAgent (Advanced AI Agent Orchestration Engine)**
-*A highly sophisticated AI orchestration service built on Hexagonal Architecture, inspired by CrewAI and LangGraph Supervisor.*
+#### 🧠 1. Priz Agent (Advanced AI Agent Orchestration Engine)
+*A highly sophisticated AI orchestration service built on Hexagonal Architecture.*
 - **Core Framework:** Python 3.12, FastAPI, LangGraph, LangChain, Model Context Protocol (MCP)
 - **Hierarchical Agents:** 13 specialized agents across 4 teams (Ops, Research, Technical, Knowledge) managed by a Global Orchestrator.
-- **Advanced AI Patterns:** Plan-and-Execute, Reflection & Self-Correction, Corrective RAG, LATS (Language Agent Tree Search), Self-Discovery, Meta-Prompting.
-- **Memory System:** Short-term Buffer (Redis), Long-term Vector RAG (PGVector), Entity Memory, and Auto-Condensation.
-- **Reliability & Safety:** Human-in-the-Loop (HITL), Node Guardrails, Double-Check Verification, Conflict Resolution Policy.
-- **Observability & Eval:** Arize Phoenix (Tracing), DeepEval (LLM-as-judge), Prometheus.
+- **Advanced AI Patterns:** Plan-and-Execute, Reflection & Self-Correction, Corrective RAG, LATS, Self-Discovery.
+- **Memory System:** Short-term Buffer (Redis), Long-term Vector RAG (PGVector), Entity Memory.
+- **Reliability & Eval:** Human-in-the-Loop (HITL), Node Guardrails, Arize Phoenix, DeepEval, Prometheus.
 
-#### **Priz (Microservices Platform)**
-*A scalable backend platform supporting the AI ecosystem.*
-- **Backend Core:** Java 21, Spring Boot 4.0.5, Spring WebFlux
+#### ⚙️ 2. Priz Base (Microservices Backend)
+*The scalable backend platform supporting the AI ecosystem.*
+- **Core:** Java 21, Spring Boot 4.0.5, Spring WebFlux
 - **Architecture:** Microservices, Hexagonal Architecture, Plugin Architecture
 - **Communication:** gRPC (High-performance internal RPC), REST APIs, Kong API Gateway, Nginx
 - **Databases:** MySQL (R2DBC & JDBC), Redis
 - **Security & Tools:** JWT Authentication, Spring Security, Docker, Flyway
 
-#### **ElecBase (Modern Desktop Application)**
-*A modern, feature-rich desktop application built with web technologies.*
+#### 💻 3. ElecBase (Modern Desktop Client)
+*A feature-rich desktop application acting as the primary user interface.*
 - **Core:** Electron, React 19, TypeScript, Electron-Vite
 - **State Management:** Zustand
 - **UI & Styling:** Tailwind CSS, Ant Design, Radix UI, Framer Motion
 - **Rich Text & Markdown:** Tiptap, Milkdown, React Markdown
 - **Local Storage:** Better-SQLite3, Electron Store
 - **AI Integration:** Assistant UI for interactive chat interfaces
+
+#### 🎨 4. Priz Figma MCP & Plugin Server
+*A bidirectional data orchestrator extracting and serving Figma design data via the Model Context Protocol (MCP).*
+- **Orchestrator (Bot):** Python, FastAPI, WebSockets, Server-Sent Events (SSE)
+- **Plugin:** TypeScript, Figma Plugin API
+- **Database:** PostgreSQL 16
+- **Capabilities:** Real-time bi-directional sync, AST Layer Extraction, and seamless MCP integration for AI Agents.
 
 ---
 
