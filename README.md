@@ -46,6 +46,36 @@
 
 ---
 
+### 🚀 Featured Projects
+
+#### **PAgent (Advanced AI Agent Orchestration Engine)**
+*A highly sophisticated AI orchestration service built on Hexagonal Architecture, inspired by CrewAI and LangGraph Supervisor.*
+- **Core Framework:** Python 3.12, FastAPI, LangGraph, LangChain, Model Context Protocol (MCP)
+- **Hierarchical Agents:** 13 specialized agents across 4 teams (Ops, Research, Technical, Knowledge) managed by a Global Orchestrator.
+- **Advanced AI Patterns:** Plan-and-Execute, Reflection & Self-Correction, Corrective RAG, LATS (Language Agent Tree Search), Self-Discovery, Meta-Prompting.
+- **Memory System:** Short-term Buffer (Redis), Long-term Vector RAG (PGVector), Entity Memory, and Auto-Condensation.
+- **Reliability & Safety:** Human-in-the-Loop (HITL), Node Guardrails, Double-Check Verification, Conflict Resolution Policy.
+- **Observability & Eval:** Arize Phoenix (Tracing), DeepEval (LLM-as-judge), Prometheus.
+
+#### **Priz (Microservices Platform)**
+*A scalable backend platform supporting the AI ecosystem.*
+- **Backend Core:** Java 21, Spring Boot 4.0.5, Spring WebFlux
+- **Architecture:** Microservices, Hexagonal Architecture, Plugin Architecture
+- **Communication:** gRPC (High-performance internal RPC), REST APIs, Kong API Gateway, Nginx
+- **Databases:** MySQL (R2DBC & JDBC), Redis
+- **Security & Tools:** JWT Authentication, Spring Security, Docker, Flyway
+
+#### **ElecBase (Modern Desktop Application)**
+*A modern, feature-rich desktop application built with web technologies.*
+- **Core:** Electron, React 19, TypeScript, Electron-Vite
+- **State Management:** Zustand
+- **UI & Styling:** Tailwind CSS, Ant Design, Radix UI, Framer Motion
+- **Rich Text & Markdown:** Tiptap, Milkdown, React Markdown
+- **Local Storage:** Better-SQLite3, Electron Store
+- **AI Integration:** Assistant UI for interactive chat interfaces
+
+---
+
 ### 📊 GitHub Stats
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=duypham000&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true&hide=stars,issues&show=prs_merged" alt="GitHub Stats" />
