@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Phạm Khánh Duy 👋</h1>
-  <h3>Fullstack Developer @ Simplize</h3>
+  <h3>Fullstack Developer</h3>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=Fullstack+Developer;Java+Spring+Boot+%26+Microservices;ReactJS%2C+NextJS+%26+Flutter" alt="Typing SVG" />
 </div>
 
@@ -10,7 +10,7 @@
 - 💼 Currently working as a **Fullstack Developer** at [Simplize](https://simplize.vn/).
 - 🎓 Graduated with **Excellence** in IT from UTT (Đại học Công Nghệ Giao Thông Vận Tải).
 - 🔭 I have deep experience in designing and implementing **Microservices** with **Java Spring Boot**, as well as building complex **Frontend** applications and **Mini-Apps** with **React.js, Next.js, and Flutter**.
-- 💡 I love exploring advanced architectural patterns (DDD, CQRS, Event Sourcing) and building complex charting systems (SVG, D3.js, Canvas).
+- 💡 I love exploring advanced architectural patterns (DDD, CQRS, Event Sourcing, Hexagonal Architecture) and building complex charting systems (SVG, D3.js, Canvas).
 - 📫 How to reach me: 
   - **Email**: [khanhduy.dev@gmail.com](mailto:khanhduy.dev@gmail.com)
   - **Facebook**: [facebook.com/duyn5822](https://www.facebook.com/duyn5822)
@@ -34,6 +34,7 @@
 
 **Architecture & Messaging:**  
 ![Microservices](https://img.shields.io/badge/Microservices-FF4500?style=for-the-badge)
+![Hexagonal Architecture](https://img.shields.io/badge/Hexagonal_Architecture-555555?style=for-the-badge)
 ![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=grpc&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
