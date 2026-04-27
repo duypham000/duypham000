@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi there, I'm Phạm Khánh Duy 👋</h1>
   <h3>Fullstack Developer</h3>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=Fullstack+Developer;Java+Spring+Boot+%26+Microservices;ReactJS%2C+NextJS+%26+Flutter" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=Fullstack+Developer;ReactJS+%26+Spring+Boot;Always+learning+new+tech" alt="Typing SVG" />
 </div>
 
 ---
