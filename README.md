@@ -7,7 +7,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 💼 Currently working as a **Fullstack Developer** at **[Simplize](https://simplize.vn)** (2022 - Present), building trading platforms, charting systems, and miniapps.
+- 💼 Currently working as a **Fullstack Developer**, building trading platforms, charting systems, and miniapps.
 - 🔭 Deep experience in designing and implementing **Microservices** with **Java 21 & Spring Boot**, as well as building complex **Frontend** applications and **Hybrid Mini-Apps** with **React.js, Next.js 16, and Flutter**.
 - 💡 Specializing in advanced architectural patterns (DDD, SAGA, Hexagonal Architecture) and building High-Performance Financial Charting engines (SVG, D3.js, HTML5 Canvas, Flutter CustomPainter).
 - 🎓 **Education**: Graduated with Excellence in Information Technology from University of Transport Technology (2020 - 2024). TOEIC: 670.
